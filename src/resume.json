@@ -1,0 +1,102 @@
+{
+	"name": "Darshan Pandya",
+	"email": "pandya.darshan11@gmail.com",
+	"phone": "551-226-1408",
+	"image": "https://media-exp1.licdn.com/dms/image/C4D03AQHyZGQF0ry5sg/profile-displayphoto-shrink_400_400/0?e=1600300800&v=beta&t=ayYCwQ2TaUMvjyzYVNGb_jH3Um824yrkPen6KBMQ3FM",
+	"linkedin": "Darshan-Pandya-dev",
+	"experiences" : [
+		{
+			"title" : "Software Engineer II",
+			"period": "2013 - Present",
+			"company": "Verizon Media Group",
+			"companyURL": "Verizon Media Group",
+			"details": "Sr Memeber of cdn team customer facing portal. Mainly building customer facing modules but with detail knowledge on Content Delivery Network funcationality. Worked on different projects as an associate developer to lead developer.  "
+		},
+		{
+			"title" : ".Net Developer",
+			"period": "2012 - 2013",
+			"company": "TCC Cooking.com",
+			"companyURL": "cooking.com",
+			"details": "Company was providing e-commerce solutions to big brands like Dunkin donuts, foodnetwork.com, caphalon.com. Heavly involved in web development using microsoft technologies. Also did full stack development on some internal tools to provide capablity for online changes to product."
+		}
+		,
+		{
+			"title" : ".Net Developer",
+			"period": "2011 - 2012",
+			"company": "Terra Infotech",
+			"companyURL": "",
+			"details": "Terra infotech was service based company. Worked on internal websites which involved windows forms implementation. "
+		},
+		{
+			"title" : "IT Support",
+			"period": "2010 - 2011",
+			"company": "Amneal Pharmaceuticals",
+			"companyURL": "https://www.amneal.com/",
+			"details": "Supporting JD Edwards ERP system for purchasing department. Also provide IT service related request."
+		}
+	],
+	"skills": [
+		{
+			"name": "C# AND DOTNetCore",
+			"percent": "98%"
+		},
+		{
+			"name": "AWS",
+			"percent": "70%"
+		},
+		{
+			"name": "Design And Architecture",
+			"percent": "80%"
+		},
+		{
+			"name": "HTML5 & CSS",
+			"percent": "99%"
+		},
+		{
+			"name": "WebDevelopment",
+			"percent": "99%"
+		},
+		{
+			"name": "React",
+			"percent": "50%"
+		},
+		{
+			"name": "GoLang",
+			"percent": "20%"
+		}
+	],
+	"education": [
+		{
+			"degree": "MSc in Computer Science",
+			"university": "University of Bridgeport",
+			"period": "2008 - 2010"
+		},
+		{
+			"degree": "Bachelor of Computer Applications",
+			"university": "Gujarat University",
+			"period": "2004 - 2007"
+		}
+	],
+	"languages": [
+		{
+			"name":"English",
+			"details": "Native"
+		},
+		{
+			"name":"Hindi",
+			"details": "Professional"
+		}
+	],
+	"interests": [
+		"Gaming",
+		"Snowboarding",
+		"Cooking",
+		"Coding"
+	]
+}
+
+
+
+
+
+
