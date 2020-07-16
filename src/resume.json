@@ -37,7 +37,7 @@
 	],
 	"skills": [
 		{
-			"name": "C# AND DOTNetCore",
+			"name": "C# & DotNetCore",
 			"percent": "98%"
 		},
 		{
@@ -50,7 +50,7 @@
 		},
 		{
 			"name": "HTML5 & CSS",
-			"percent": "99%"
+			"percent": "60%"
 		},
 		{
 			"name": "WebDevelopment",
@@ -58,7 +58,7 @@
 		},
 		{
 			"name": "React",
-			"percent": "50%"
+			"percent": "40%"
 		},
 		{
 			"name": "GoLang",
