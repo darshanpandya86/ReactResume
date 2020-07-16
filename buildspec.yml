@@ -1,7 +1,7 @@
 version: 0.2
 
 phases:
-    intall:
+    install:
       commands:
         - echo installing Node 12...
         - curl -sL https://deb.nodesource.com/setup_lts.x | bash -
