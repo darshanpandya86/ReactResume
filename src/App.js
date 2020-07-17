@@ -15,7 +15,6 @@ class App extends Component  {
     resume.experiences.map((item, i) => {
         resultArray.push(<Experience item = {item} key={i} />);
     });
-
     return resultArray
 }
 

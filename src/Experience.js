@@ -1,6 +1,18 @@
 import React, {Component} from 'react'
+import Highlight from './Highlight'
 
 class Experience extends Component{
+
+
+renderHighlights(){
+    let resultArray =[];
+    if(this.props.item.highlights){
+   this.props.item.highlights.map((item, i) => {
+        resultArray.push(<Highlight item = {item} key={i} />);
+    });
+}
+    return resultArray;
+}
 
 	render(){
 		return(
@@ -14,6 +26,9 @@ class Experience extends Component{
                     </div>
                     <div className="details">
                         <p>{this.props.item.details}</p>
+                        <ul>{this.renderHighlights()}</ul>
+                        <p><b>Techonologies :</b> {this.props.item.technologies}</p>
+
                     </div>
                 </div>
 			);
