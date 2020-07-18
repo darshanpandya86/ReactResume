@@ -10,41 +10,41 @@
 			"period": "2013 - Present",
 			"company": "Verizon Media Group",
 			"companyURL": "Verizon Media Group",
-			"details": "Sr Memeber of cdn team customer facing portal. Mainly building customer facing modules but with detail knowledge on Content Delivery Network funcationality. Worked on different projects as an associate developer to lead developer.",
+			"details": "Sr Member of cdn team customer facing portal. Mainly building customer facing modules but with detailed knowledge on Content Delivery Network functionality. Worked on different projects as an associate developer to lead developer.",
 	        "highlights":[
 	        			"Worked on different design patterns for example Domain Drive Designs, Singleton, Factories and different Architecture like N-tier Architecture, Microservice Architecture, Event Drive Architecture",
 	         			"Experienced as full stack developer.",
 	         			"Working knowledge on jenkins pipeline and AWS Code pipeline.",
       					"Contributed on Identity Management System development to provide SSO and SAML workflow to internal and external customer.",
-      					"Working knowledge on Auth 2.0, OIDC, .Net Core.",
-      					"Created POC for Identity Manangement System and Azure SAML workflow.",
+      					"Working knowledge on Oauth 2.0, OIDC, .Net Core.",
+      					"Created POC for Identity Management System and Azure SAML workflow.",
       					"Working knowledge on AWS service like EC2,S3,RDS, IAM and Cloudwatch.",
       					"Migrated data from inhouse sql server to RDS using Talend integration tool.",
       					"Developed and Consumed third-party REST apis for example Digicert apis to provide SSL feature to Customers.",
       					"Extensive work on REST api development. Also maintained customer facing legacy SOAP apis.",
       					"Experienced with Test Drive development using xunit, fake it easy and puppeteer.",
-      					"Migrated legacy WCF api and ASP.net Webforms to Webapi and MVC.",
+      					"Migrated legacy WCF api and ASP.net Webforms to Web Api and MVC.",
       					"Intermediate development experience on React Applications. Doing full stack development from Apis development to UI.",
       					"Learning GoLang on personal time.",
-      					"Follow Scurm methodology.",
+      					"Follow Scrum methodology.",
       					"Experienced as project lead, developer and also QA. Gathered data from products converted to user stories and also worked with architects and other developers to implement the feature."
 	        ],
-	        "technologies": "C#, ASP.Net and .Net Core, SQL Server, Postgres,LINQ, JavaScript, WCF and Web APIs, CQRS, React,GoLang,Telend ETL, Entity Framework"
+	        "technologies": "C#, ASP.Net and .Net Core, SQL Server, Postgres,LINQ, JavaScript, WCF and Web APIs, CQRS, React,GoLang,Talend ETL, Entity Framework"
 		},
 		{
 			"title" : ".Net Developer",
 			"period": "2012 - 2013",
 			"company": "TCC Cooking.com",
 			"companyURL": "cooking.com",
-			"details": "Company was providing e-commerce solutions to big brands like Dunkin donuts, foodnetwork.com, caphalon.com. Heavly involved in web development using microsoft technologies. Also did full stack development on some internal tools to provide capablity for online changes to product.",
+			"details": "Company was providing e-commerce solutions to big brands like Dunkin donuts, foodnetwork.com, caphalon.com. Heavily involved in web development using microsoft technologies. Also did full stack development on some internal tools to provide capability for online changes to product.",
 			"highlights": [
 	         			"Contributed and Developed Dunkin donuts shop public website, Omniture tracking and billing feed (internal tool).",
-	         			"Heavly worked on MVC and Webforms.",
-	         			"Created internal Tools to dynamicly change promos and pricing for products on websites.",
-	         			"Worked on Mongo DB to store to store SEO tracking tags which embedded with each website deployment.",
-	         			"Heavely worked on JavaScript and Jquery to create Faceted Search, Jquery Carousel"
+	         			"Heavily worked on MVC and Webforms.",
+	         			"Created internal Tools to dynamically change promos and pricing for products on websites.",
+	         			"Worked on MongoDB to store to store SEO tracking tags which embedded with each website deployment.",
+	         			"Heavily worked on JavaScript and Jquery to create Faceted Search, Jquery Carousel"
     			],
-			"technologies":"C#, ASP.Net and MVC, SQL Server 2008, LINQ, JavaScript, Ajax, XML, HTML, Curise Control, Omniture."
+			"technologies":"C#, ASP.Net and MVC, SQL Server 2008, LINQ, JavaScript, Ajax, XML, HTML, Cruise Control, Omniture."
 			
 		}
 		,
@@ -53,7 +53,7 @@
 			"period": "2011 - 2012",
 			"company": "Terra Infotech",
 			"companyURL": "",
-			"details": "Terra infotech was service based company. Worked on internal websites which involved windows forms implementation.",
+			"details": "Terra infotech was a service based company. Worked on internal websites which involved windows forms implementation.",
 			"technologies": "C#, Asp.net, MS SQL, Nunit, Rhino Mocks"
 
 			
@@ -129,9 +129,3 @@
 		"Coding"
 	]
 }
-
-
-
-
-
-
