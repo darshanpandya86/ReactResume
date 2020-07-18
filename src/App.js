@@ -68,7 +68,7 @@ render(){
             <div className="contact-container container-block">
                 <ul className="list-unstyled contact-list">
                     <li className="email"><i className="fas fa-envelope"></i><a href="mailto: yourname@email.com">{resume.email}</a></li>
-                    <li className="phone"><i className="fas fa-phone"></i><a href="tel:{resume.phone}">{resume.phone}</a></li>
+                    <li className="phone"><i className="fas fa-phone"></i><br/><a href="tel:{resume.phone}">{resume.phone}</a></li>
                     <li className="linkedin"><i className="fab fa-linkedin-in"></i><a href="#" target="_blank">linkedin.com/in/{resume.linkedin}</a></li>
                 </ul>
             </div>
