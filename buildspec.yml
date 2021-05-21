@@ -1,23 +1,15 @@
 version: 0.2
 
 phases:
-    install:
-      commands:
-        - echo installing Node 12...
-        - apt install -y nodejs
-        - echo installing yarn...
-        - echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list
-        - apt install --no-install-recommends yarn
-    pre_build:
-      commands:
-        #echo install dependncies...
-        - yarn
-    build:
-      commands:
-        #echo build..
-        - yarn build
+  pre_build:
+    commands:
+      - npm install
+  build:
+    commands:
+      - npm run build
+
 artifacts:
   files:
-    - "**/*"
+    - '**/*'
   discard-paths: no
-  base-directory: dist
+  base-directory: build
